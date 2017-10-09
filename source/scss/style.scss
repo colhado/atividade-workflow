@@ -1,0 +1,17 @@
+/* Variaveis */
+$cor-padrao: #000;
+$branco: #fff;
+
+body {
+	background: $branco;
+}
+.navMobile {
+	width: 100%;
+	height: 50px;
+	background: $cor-padrao;
+}
+.copyright {
+	width: 100%;
+	height: 50px;
+	background: $cor-padrao;
+}

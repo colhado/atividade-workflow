@@ -1,0 +1,21 @@
+/* Variaveis */
+$cor-padrao: #000;
+$branco: #fff;
+
+body {
+	background: $branco;
+}
+.mainNav {
+	width: 100%;
+	height: 50px;
+	background: $cor-padrao;
+}
+.mainHeader {
+	width: 100%;
+	height: 50px;
+	background: $cor-padrao;
+}
+.mainContent {
+	background: $branco;
+	width: 100%;
+}
